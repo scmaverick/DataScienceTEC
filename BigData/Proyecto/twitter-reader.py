@@ -9,10 +9,10 @@ import socket
 import json
 
 # Credenciales generadas en la vista de twitter para Developers
-consumer_key    = 'HJs1tKcqZRVAxPlPMoBMaietr'
-consumer_secret = 'xqg5ktgZMtZVVk56oGfcI1Rmr5kx2GDE5Tv1vIJgwxAIjlfPkv'
-access_token    = '1001625991955955712-pV1Efg8TiTLVKeLCLULesTeIjqkJqJ'
-access_secret   = 'b9KH3P8ASPDD8E8wCzHsB32IgTQDZjTBr12MKaS2Vev4m'
+consumer_key    = 'xxx'
+consumer_secret = 'xxx'
+access_token    = 'xxx-xxx'
+access_secret   = 'xxx'
 
 # Se crea esta clase que hereda de StreamListener en tweepy StreamListener
 class TweetsListener(StreamListener):
