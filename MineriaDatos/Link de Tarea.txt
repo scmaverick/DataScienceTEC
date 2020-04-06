@@ -1,9 +1,0 @@
-El jupyter de la tarea lo puede encontrar en github link:
-
-https://github.com/scmaverick/DataScienceTEC/blob/master/MineriaDatos/Tarea3-SergioCastillo.ipynb
-
-Fue realizado en Azure Notebooks, trate de descargar un PDF pero no funciono, el HTML no me incluia las imagenes, y cualquier otro formato no valia la pena, asi que el mas preciso era el jupyter notebook posteado en github.
-
-De igual forma github muestra el dia y la fecha de la ultima actualizacion que debe ser antes de la fecha de entrega.
-
-Saludos

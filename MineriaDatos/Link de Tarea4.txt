@@ -1,0 +1,5 @@
+El jupyter de la tarea lo puede encontrar en github link:
+
+https://github.com/scmaverick/DataScienceTEC/blob/master/MineriaDatos/utf-8-Tarea4-SergioCastillo.ipynb
+
+Saludos
